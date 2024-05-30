@@ -1,0 +1,5 @@
+# Why having package.json is so crucial when sharing project with other developers.
+  Needs github and some basic knowledge on git command
+
+# When pushing files to github does it need to also push the node_modules folder?
+  It doesn't need to push the node_modules folder.
